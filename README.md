@@ -11,4 +11,4 @@ nes (14 sloc)  1.37 KB
 - 💬 Ask me about everything.
 - 📫 How to reach me: galin_3xg@abv.bg
 
-
+![XsIsT's GitHub stats](https://github-readme-stats.vercel.app/api?username=XsIsT97&show_icons=true&theme=merko)
