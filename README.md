@@ -1,5 +1,4 @@
-nes (14 sloc)  1.37 KB
-   
+
 ### Hi there, I'm Galin 👋
 
 [![Facebook](https://img.shields.io/badge/-Facebook-0e76a8?style=flat-oval&logo=Facebook&logoColor=black)](https://www.facebook.com/galin.georgiev.5648)
