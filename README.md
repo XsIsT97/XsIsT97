@@ -1,6 +1,6 @@
 nes (14 sloc)  1.37 KB
    
-### Hi there, I'm Polina 👋
+### Hi there, I'm Galin 👋
 
 [![Facebook](https://img.shields.io/badge/-Facebook-0e76a8?style=flat-oval&logo=Facebook&logoColor=black)](https://www.facebook.com/galin.georgiev.5648)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-oval&logo=Instagram&logoColor=black)](https://www.instagram.com/galin_georgiev97/?hl=bg) 
