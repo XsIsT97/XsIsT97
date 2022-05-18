@@ -10,4 +10,6 @@
 - 💬 Ask me about everything.
 - 📫 How to reach me: galin_3xg@abv.bg
 
-![XsIsT's GitHub stats](https://github-readme-stats.vercel.app/api?username=XsIsT97&show_icons=true&theme=merko)
+![XsIsT's GitHub stats](https://github-readme-stats.vercel.app/api?username=XsIsT97&show_icons=true&theme=0000)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XsIsT97&layout=compact)](https://github.com/XsIsT97/github-readme-stats)
